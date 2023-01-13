@@ -1,4 +1,4 @@
-# Python parrot cmd print lib -- popug
+# Python parrot cmd print lib
 
 Installing:
 

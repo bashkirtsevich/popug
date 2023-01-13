@@ -1,5 +1,27 @@
 # Python parrot cli args echo lib
 
+`setup.py`:
+```
+...
+    entry_points={
+        'console_scripts': [
+            'popug = popug.__main__:main',
+        ]
+    },
+    packages=setuptools.find_packages(),
+...
+```
+Files structure:
+```
+.
+├── LICENSE
+├── README.md
+├── popug
+│   ├── __init__.py
+│   └── __main__.py
+└── setup.py
+```
+
 Installing:
 
 `pip install git+https://github.com/bashkirtsevich/popug.git`

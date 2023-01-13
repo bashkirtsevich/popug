@@ -22,7 +22,7 @@ setup(
             'popup = popug.__main__:main',
         ]
     },
-    packages=setuptools.find_packages(exclude=['t', 't.*']),
+    packages=setuptools.find_packages(),
     python_requires=">=3.0",
 )
 

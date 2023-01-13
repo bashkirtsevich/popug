@@ -24,7 +24,9 @@ Files structure:
 
 Installing:
 
-`pip install git+https://github.com/bashkirtsevich/popug.git`
+```
+pip install git+https://github.com/bashkirtsevich/popug.git
+```
 
 Example:
 

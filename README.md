@@ -1,4 +1,4 @@
-# Python parrot cli args echo lib example 🦜
+# 🦜 Python parrot cli args echo lib example
 
 `setup.py`:
 ```

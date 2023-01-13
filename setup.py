@@ -19,7 +19,7 @@ setup(
     zip_safe=True,
     entry_points={
         'console_scripts': [
-            'popup = popug.__main__:main',
+            'popug = popug.__main__:main',
         ]
     },
     packages=setuptools.find_packages(),

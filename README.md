@@ -1,4 +1,4 @@
-# Python parrot cmd print lib
+# Python parrot cli args echo lib
 
 Installing:
 
